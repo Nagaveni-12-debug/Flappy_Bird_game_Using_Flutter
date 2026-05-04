@@ -1,2 +1,17 @@
-# Flappy_Bird_game_Using_Flutter
-Flappy Bird Game Using Flutter  This project is a simple 2D mobile game developed using Flutter. The game is inspired by the popular Flappy Bird concept where the player controls a bird and navigates through obstacles without hitting them. The goal is to achieve the highest score by passing through as many pipes as possible.
+# flappy_bird
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
